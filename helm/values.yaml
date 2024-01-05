@@ -1,0 +1,11 @@
+deployment:
+  svc: true 
+
+product:
+  info:
+    data:
+      description: "OneCX Help"
+      imageUrl: ""
+      iconName: "palette"
+      displayName: "OneCX Help"
+      basePath: "/help"  
