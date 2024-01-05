@@ -1,4 +1,4 @@
-apiversion: v1
+apiversion: v2
 name: onecx-help
 version: 0.0.0
 appversion: 0.0.0
@@ -12,8 +12,4 @@ dependencies:
   repository: oci://ghcr.io/onecx/charts
   condition: "deployment.svc"  
   alias: "svc"
-- name: onecx-help-bff
-  version: "*-0"
-  repository: oci://ghcr.io/onecx/charts
-  condition: "deployment.bff"  
-  alias: "bff"  
+  
