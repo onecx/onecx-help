@@ -4,12 +4,12 @@ dependencies:
   version: 0.1.0
 - name: onecx-help-svc
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.22
+  version: 0.0.0-rc.23
 - name: onecx-help-bff
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.19
 - name: onecx-help-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.24
-digest: sha256:00051c1a93d606b6e78c932c189c1b07f8858974cb26d00f98fdfd5a62f7cf7e
-generated: "2024-05-16T06:47:44.943033488Z"
+digest: sha256:57886f9a3a1e7e9f59a30f222397811c87855158bd037b4563bd99b90b72fdd8
+generated: "2024-05-20T10:28:47.447305558Z"
