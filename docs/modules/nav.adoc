@@ -1,1 +1,0 @@
-* xref:onecx-help:index.adoc[Help Management]
