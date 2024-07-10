@@ -6,3 +6,4 @@ nav:
   - modules/onecx-help/nav.adoc
   - modules/onecx-help-svc/nav.adoc
   - modules/onecx-help-bff/nav.adoc
+  - modules/onecx-help-ui/nav.adoc
