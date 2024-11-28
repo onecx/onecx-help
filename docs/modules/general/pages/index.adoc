@@ -1,5 +1,29 @@
 = OneCX Help Management
 
+.Help UI
+image::overview.png[]
+
+== Overview
+The Portal Help Management feature is designed to provide users with easy access to help resources and support within the portal. It ensures that users can quickly find the information they need to resolve issues, understand features, and maximize their use of the portal.
+
+*Contextual Help*:
+
+* In-Page Assistance: Offers contextual help directly within the portal pages, providing users with relevant information and guidance based on their current activity.
+
+*Administrative Controls*:
+
+* Help Content Management: Provides administrators with tools to create, edit, and manage help content, ensuring that information is accurate and up-to-date.
+* Instant Updates: Allows administrators to instantly update help content, ensuring users always have access to the latest information.
+
+== Benefits
+* Improved User Experience: Ensures that users can easily find the help they need, reducing frustration and enhancing their overall experience with the portal.
+* Increased Efficiency: Provides quick and effective support, helping users resolve issues faster and get back to their tasks.
+* Enhanced Support Quality: Allows administrators to maintain high-quality help resources, ensuring that users receive accurate and helpful information
+
+== UI Examples
+.Help configuration
+image::help_configuration.png[]
+
 == Licence
 This software is licensed under the Apache License, Version 2.0.
 You may obtain a copy of the license in the corresponding LICENSE file or visit the link:https://www.apache.org/licenses/LICENSE-2.0[Apache website] for more information.
@@ -8,16 +32,10 @@ You may obtain a copy of the license in the corresponding LICENSE file or visit 
 We welcome contributions from the community.
 If you would like to contribute to the development of OneCX Help Management Software, please follow our contribution guidelines (tbd).
 
-== What is Help Management?
-Help Management refers to storing and retrieving Help items usable in context of OneCX applications.
-
-== Key Features
-* Help item Storage and Retrieval: Store and retrieve Help items usable in context of OneCX applications.
-
-== Issue tracking
+== Issue Tracking
 All OneCX Help issues are tracked and maintained at the link:https://xyz.com[issue tracking tool].
 
-== Overview
+== Structure Overview
 OneCX Help Software is a comprehensive solution for managing Help items in a user-friendly and efficient manner.
 It is a solution that consists of three main components: a backend service, a user interface and a backend-for-frontend (BFF) layer.
 
