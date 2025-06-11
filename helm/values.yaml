@@ -6,8 +6,10 @@ deployment:
 product:
   info:
     data:
-      description: "OneCX Help"
+      description: "Manage Help Items"
       imageUrl: ""
       iconName: "question-circle"
       displayName: "OneCX Help"
-      basePath: "/help"  
+      basePath: /help
+      provider: "OneCX Team"
+      classifications: [ "Administration" ]
