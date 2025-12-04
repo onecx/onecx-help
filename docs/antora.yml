@@ -1,9 +1,2 @@
-name: onecx-help
-title: Help Management
+name: documentation
 version: latest
-start_page: general:index.adoc
-nav:
-  - modules/general/nav.adoc
-  - modules/onecx-help-ui/nav.adoc
-  - modules/onecx-help-bff/nav.adoc
-  - modules/onecx-help-svc/nav.adoc

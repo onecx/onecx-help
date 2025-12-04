@@ -1,1 +1,1 @@
-* xref:general:index.adoc[General]
+* xref:documentation:onecx-help:general:index.adoc[Help]
