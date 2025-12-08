@@ -1,1 +1,0 @@
-* xref:documentation:onecx-help:general:index.adoc[Help]
