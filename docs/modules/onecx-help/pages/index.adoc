@@ -1,5 +1,9 @@
 = OneCX Help Management
 
+:idprefix:
+:idseparator: -
+:imagesdir: ../images
+
 .Help UI
 image::overview.png[]
 
