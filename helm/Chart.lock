@@ -7,9 +7,9 @@ dependencies:
   version: 1.9.0-rc.4
 - name: onecx-help-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 1.9.0-rc.4
+  version: 1.9.0-rc.5
 - name: onecx-help-ui
   repository: oci://ghcr.io/onecx/charts
   version: 1.8.0-rc.6
-digest: sha256:db6cfc159dddd295a6cbbd323cf607968142964066d12696e2a8f02076eb31dc
-generated: "2026-03-03T08:32:14.153867191Z"
+digest: sha256:336ca1a4c0a5e343f86af3be42ace6c80e1e803c317976027478b6024c4b75db
+generated: "2026-03-03T12:14:36.916876643Z"
