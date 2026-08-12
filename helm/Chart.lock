@@ -10,6 +10,6 @@ dependencies:
   version: 1.10.0-rc.13
 - name: onecx-help-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 1.9.0-rc.30
-digest: sha256:c1cfc967a73ffd7c5c1c51da168424378de9be07326a8c09d966c8e064a23477
-generated: "2026-08-09T09:55:02.838459403Z"
+  version: 1.9.0-rc.31
+digest: sha256:7b1fe2a3d885887be4eee76e6d608ca5a8da653b1d85e1c3d09b8e086ad8d295
+generated: "2026-08-12T16:07:10.344054801Z"
